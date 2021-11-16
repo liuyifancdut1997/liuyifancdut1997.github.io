@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-11-15T08:58:06.037Z</updated>
+  <updated>2021-11-16T14:23:21.040Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>arxiv上传流程</title>
+    <link href="http://example.com/2021/11/16/2021-11-16/"/>
+    <id>http://example.com/2021/11/16/2021-11-16/</id>
+    <published>2021-11-16T02:05:24.000Z</published>
+    <updated>2021-11-16T14:23:21.040Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;arxiv介绍：&quot;&gt;&lt;a href=&quot;#arxiv介绍：&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Convex Optimization" scheme="http://example.com/categories/Convex-Optimization/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
     <link href="http://example.com/2021/11/15/hello-world/"/>
     <id>http://example.com/2021/11/15/hello-world/</id>
     <published>2021-11-15T08:58:06.037Z</published>
-    <updated>2021-11-15T08:58:06.037Z</updated>
+    <updated>2021-11-16T14:16:17.667Z</updated>
     
     
       
@@ -33,6 +56,8 @@
       
     
     
+    
+    <category term="hexo" scheme="http://example.com/categories/hexo/"/>
     
     
   </entry>

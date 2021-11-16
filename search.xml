@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>arxiv上传流程</title>
+    <url>/2021/11/16/2021-11-16/</url>
+    <content><![CDATA[<h1 id="arxiv介绍："><a href="#arxiv介绍：" class="headerlink" title="arxiv介绍："></a>arxiv介绍：</h1><p>arxiv就是预览版本。上传paper至arxiv其实相当于提前占坑，别让自己model被别人抢了。但这里值得注意的是，有的期刊不让上传预览版本，这个要注意。</p>
+<h1 id="上传文件至arxiv的步骤"><a href="#上传文件至arxiv的步骤" class="headerlink" title="上传文件至arxiv的步骤"></a>上传文件至arxiv的步骤</h1><p>arxiv是不允许上传pdf文件的，因此你要上传tex文件。上传文件时包括如下几个：你的图片pdf，tex文件，bbl文件（要tex文件同名），IEEEcls（我用的模板）然后点击上传就OK了。但在编译中有可能遇到很多错误，因为tex有许多错误可以忽略，比如中文括号逗号，但arxiv就可以检查出来并报错，因此要仔细检查。</p>
+]]></content>
+      <categories>
+        <category>Convex Optimization</category>
+      </categories>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2021/11/15/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -17,5 +27,8 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+      <categories>
+        <category>hexo</category>
+      </categories>
   </entry>
 </search>
