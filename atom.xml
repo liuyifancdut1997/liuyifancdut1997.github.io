@@ -1,33 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Yifan Home</title>
-  
-  
+  <title>Yifan Liu</title>
+  <icon>https://www.gravatar.com/avatar/bc171a1ad34de162fd36c5509f3cff5e</icon>
+  <subtitle>人间正道是沧桑</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-11-15T09:13:12.409Z</updated>
+  <updated>2021-11-15T08:58:06.037Z</updated>
   <id>http://example.com/</id>
   
   <author>
     <name>Yifan Liu</name>
-    
+    <email>43393492@qq.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>my first blog</title>
-    <link href="http://example.com/2021/11/15/my-first-blog/"/>
-    <id>http://example.com/2021/11/15/my-first-blog/</id>
-    <published>2021-11-15T09:13:12.000Z</published>
-    <updated>2021-11-15T09:13:12.409Z</updated>
-    
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
